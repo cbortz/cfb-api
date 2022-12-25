@@ -3030,6 +3030,9 @@
         "home_team": {
           "type": "string"
         },
+        "home_conference_id": {
+          "type": "integer"
+        },
         "home_conference": {
           "type": "string"
         },
@@ -3059,6 +3062,9 @@
         },
         "away_team": {
           "type": "string"
+        },
+        "away_conference_id": {
+          "type": "integer"
         },
         "away_conference": {
           "type": "string"

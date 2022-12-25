@@ -2090,6 +2090,8 @@ definitions:
         type: integer
       home_team:
         type: string
+      home_conference_id:
+        type: integer
       home_conference:
         type: string
       home_division:
@@ -2110,6 +2112,8 @@ definitions:
         type: integer
       away_team:
         type: string
+      away_conference_id:
+        type: integer
       away_conference:
         type: string
       away_division:
